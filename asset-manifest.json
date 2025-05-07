@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kurly_react/static/css/main.6dbf8431.css",
+    "main.js": "/kurly_react/static/js/main.6a978bd4.js",
+    "index.html": "/kurly_react/index.html",
+    "main.6dbf8431.css.map": "/kurly_react/static/css/main.6dbf8431.css.map",
+    "main.6a978bd4.js.map": "/kurly_react/static/js/main.6a978bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dbf8431.css",
+    "static/js/main.6a978bd4.js"
+  ]
+}
